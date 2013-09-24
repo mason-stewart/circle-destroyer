@@ -1,0 +1,16 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.container {
+    position: relative;
+}
+
+.circle {
+    position: absolute;
+    /*border-radius: 100%;*/
+    -webkit-transition: all 2.8s ease;
+    transition-duration: 1s;
+}
